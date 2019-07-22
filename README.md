@@ -5,7 +5,7 @@ Ejercicios resueltos del curso online Python para principiantes de la UMA.
 
 TEMA 1:
 --------------------------------------------------------------------------------------------------------------------------
-Escribir un programa que pregunte al usuario un número de horas y el precio por hora para calcular el total a pagar.
+Unidad 2: Escribir un programa que pregunte al usuario un número de horas y el precio por hora para calcular el total a pagar.
 
 TEMA 2:
 --------------------------------------------------------------------------------------------------------------------------
