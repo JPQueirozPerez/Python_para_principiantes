@@ -4,11 +4,11 @@ Ejercicios resueltos del curso online Python para principiantes de la UMA.
 
 
 TEMA 1:
-
-Escribir un programa que pregunte al usuario un número de horas y el precio por hora para calcular el total a pagar.
 --------------------------------------------------------------------------------------------------------------------------
-TEMA 2:
+Escribir un programa que pregunte al usuario un número de horas y el precio por hora para calcular el total a pagar.
 
+TEMA 2:
+--------------------------------------------------------------------------------------------------------------------------
 Unidad 3:
 
 1. Reescribe el programa de pagos para incrementar en un factor de 1.5 las horas que se trabajen por encima de 40 horas.
@@ -21,9 +21,9 @@ el cálculo del pago por horas de la unidad anterior y escribe una función llam
 Unidad 5: Escribe un programa que pida números al usuario hasta que escriba 'fin'. Una vez escrito 'fin', el programa debe mostrar el número más grande y el más pequeño . Si el usuario escribe algo diferente a un número , se debe capturar con un try/except e ignorar el valor introducido.
 
 Probar con 7, 2, bob, 10, y 4
---------------------------------------------------------------------------------------------------------------------------
-TEMA 3: 
 
+TEMA 3: 
+--------------------------------------------------------------------------------------------------------------------------
 Unidad 6: Utilizar find() y los slices (:) para extraer el número en el string que se indica a continuación . Convertir el número a flotante y mostrarlo.
 
 "X DSPAM Confidence: 0.8475"
@@ -34,9 +34,9 @@ X DSPAM Confidence: 0.8475
 Contar las líneas y extraer los valores flotantes de cada una de ellas, calculando el promedio y mostrándolo al final.
 
 Los datos de muestra se encuentran en el archivo mbox-short.txt. El valor promedio resultante debería ser: 0.7507185185185187
---------------------------------------------------------------------------------------------------------------------------
-TEMA 4
 
+TEMA 4
+--------------------------------------------------------------------------------------------------------------------------
 Unidad 8: 
 
 1. Abre el archivo romeo.txt y léelo línea a línea. Para cada línea, divide la línea en palabras usando el método split(). El programa debería construir una lista de palabras. Para cada palabra de cada línea , comprobar si ya estaba en la lista, y si no, añádela. Cuando el programa termine, ordenar la lista y mostrar las palabras resultantes en orden alfabético.
