@@ -24,7 +24,7 @@ Probar con 7, 2, bob, 10, y 4
 
 TEMA 3: 
 --------------------------------------------------------------------------------------------------------------------------
-Unidad 6: Utilizar find() y los slices (:) para extraer el número en el string que se indica a continuación . Convertir el número a flotante y mostrarlo.
+Unidad 6: Utilizar find() y los slices (:) para extraer el número en el string que se indica a continuación. Convertir el número a flotante y mostrarlo.
 
 "X DSPAM Confidence: 0.8475"
 
